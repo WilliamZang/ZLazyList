@@ -1,6 +1,6 @@
 # ZLazyList
 
-[![CI Status](http://img.shields.io/travis/臧成威/ZLazyList.svg?style=flat)](https://travis-ci.org/臧成威/ZLazyList)
+[![CI Status](http://img.shields.io/travis/WilliamZang/ZLazyList.svg?style=flat)](https://travis-ci.org/WilliamZang/ZLazyList)
 [![Version](https://img.shields.io/cocoapods/v/ZLazyList.svg?style=flat)](http://cocoapods.org/pods/ZLazyList)
 [![License](https://img.shields.io/cocoapods/l/ZLazyList.svg?style=flat)](http://cocoapods.org/pods/ZLazyList)
 [![Platform](https://img.shields.io/cocoapods/p/ZLazyList.svg?style=flat)](http://cocoapods.org/pods/ZLazyList)
