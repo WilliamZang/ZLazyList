@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'ZLazyList_Example' do
+  pod 'ZLazyList', :path => '../'
+
+  target 'ZLazyList_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end
