@@ -43,3 +43,16 @@ pod "ZLazyList"
 ## License
 
 ZLazyList is available under the MIT license. See the LICENSE file for more info.
+``` SQL
+DROP TABLE IF EXISTS `table_test_one`;
+CREATE TABLE `table_test_one` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `student_no` varchar(10) NOT NULL,
+  `student_name` varchar(10) NOT NULL,
+  `subject_no` varchar(10) NOT NULL,
+  `subject_name` varchar(10) NOT NULL,
+  `score` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
+
+```
